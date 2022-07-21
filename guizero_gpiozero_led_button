@@ -1,3 +1,9 @@
+#https://gpiozero.readthedocs.io/en/stable/api_input.html
+#mais completo
+#https://www.circuitbasics.com/how-to-create-user-interfaces/
+
+#https://funprojects.blog/2020/02/18/pysimplegui-quick-and-easy-interfaces/
+
 from guizero import App, PushButton
 from gpiozero import LED
 import sys
