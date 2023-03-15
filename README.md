@@ -6,4 +6,4 @@
 
 ## ESP8266 com C++/Javascript/HTML usando o sensor PWD-HC-SR04
 
-![cilindro_simples_efeito](https://user-images.githubusercontent.com/43177468/193594721-96258ffc-33e3-4f68-96b5-fc868260ec2e.jpg)
+![cilindro_simples_efeito](https://user-images.githubusercontent.com/43177468/gui_da_aplicacao.jpg)
